@@ -1,5 +1,5 @@
 # Game-of-Thrones
-Learn Python
+Learn Python sentiment analysis
 
 In the first place find the appropriate python markdown
 
